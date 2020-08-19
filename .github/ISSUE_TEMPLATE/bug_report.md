@@ -10,12 +10,9 @@ assignees: ''
 **Describe the Bug**
 A clear and concise description of what the bug is.
 
-**How to reproduce**
+
+**Steps to Reproduce**
 Steps to reproduce the behavior:
-1. 
-2.
-3.
-...
 
 **Expected Behavior**
 A clear and concise description of what you expected to happen.
